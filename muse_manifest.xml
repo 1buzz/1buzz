@@ -1,74 +1,12 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1437884365628">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1437885009280">
   <folder name="css">
-    <file name="site_global.css" crc="208753328"/>
-    <file name="master_a-master.css" crc="48873481" ref="resume:contact-me:index:maps-on-line:portfolio"/>
-    <file name="resume.css" crc="4284306074" ref="resume"/>
-    <file name="contact-me.css" crc="406259544" ref="contact-me"/>
-    <file name="index.css" crc="59229960" ref="index"/>
-    <file name="maps-on-line.css" crc="3857305428" ref="maps-on-line"/>
-    <file name="portfolio.css" crc="130620581" ref="portfolio"/>
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="3907677844" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="museutils.js" crc="212726984" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="jquery.musemenu.js" crc="440295907" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="portfolio"/>
-    <file name="pie.js" crc="3827607177" ref="portfolio"/>
-    <file name="webpro.js" crc="114405901" ref="portfolio:resume:contact-me"/>
-    <file name="musewpslideshow.js" crc="3797706250" ref="portfolio"/>
-    <file name="jquery.museoverlay.js" crc="254250306" ref="portfolio"/>
-    <file name="touchswipe.js" crc="12843993" ref="portfolio"/>
-    <file name="musewpdisclosure.js" crc="4130026270" ref="portfolio:resume"/>
-    <file name="form_check.php" crc="303526209" ref="contact-me"/>
-    <file name="form_throttle.php" crc="219462772" ref="contact-me"/>
-    <file name="form-u278.php" crc="72083498" ref="contact-me"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index"/>
+    <file name="museutils.js" crc="212726984" ref="index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="u153-4.png" crc="3836429919" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u154-4.png" crc="187901261" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="screen shot 2015-07-17 at 35235 am.jpg" crc="3840198037" ref="index"/>
-    <file name="u126-4.png" crc="204237205" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u164-4.png" crc="4254628977" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u177-4.png" crc="397999952" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u204-4.png" crc="39416919" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u232-4.png" crc="3927592634" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u233-3.png" crc="416954190" ref="index:portfolio:maps-on-line:resume:contact-me"/>
-    <file name="u234-17.png" crc="222983896" ref="index"/>
-    <file name="dwellings copy.png" crc="4046801106" ref="portfolio"/>
-    <file name="income-u1623-fr.png" crc="158376404" ref="portfolio"/>
-    <file name="dwellings-u1617-fr.png" crc="78675855" ref="portfolio"/>
-    <file name="income-u1618-fr.png" crc="194023652" ref="portfolio"/>
-    <file name="blank.gif" crc="4208392903" ref="resume"/>
-    <file name="u333.png" crc="3778631807" ref="resume"/>
-    <file name="u333-r.png" crc="131861160" ref="resume"/>
-    <file name="u333-m.png" crc="131861160" ref="resume"/>
-    <file name="u333-a.png" crc="360138331" ref="resume"/>
-    <file name="u335-6.png" crc="338904717" ref="resume"/>
-    <file name="u325.png" crc="65299193" ref="resume"/>
-    <file name="u325-r.png" crc="395302685" ref="resume"/>
-    <file name="u325-m.png" crc="395302685" ref="resume"/>
-    <file name="u325-a.png" crc="124599660" ref="resume"/>
-    <file name="u327-13.png" crc="3931256733" ref="resume"/>
-    <file name="u329.png" crc="238455356" ref="resume"/>
-    <file name="u329-r.png" crc="454670635" ref="resume"/>
-    <file name="u329-m.png" crc="454670635" ref="resume"/>
-    <file name="u329-a.png" crc="3803987931" ref="resume"/>
-    <file name="u331-27.png" crc="3827097327" ref="resume"/>
-    <file name="u322.png" crc="329141887" ref="resume"/>
-    <file name="u322-r.png" crc="260341683" ref="resume"/>
-    <file name="u322-m.png" crc="260341683" ref="resume"/>
-    <file name="u322-a.png" crc="4181398886" ref="resume"/>
-    <file name="u338-49.png" crc="3861525355" ref="resume"/>
-    <file name="u284-17.png" crc="434539657" ref="contact-me"/>
-    <file name="u284-17-r.png" crc="232568225" ref="contact-me"/>
-    <file name="u284-17-m.png" crc="168928657" ref="contact-me"/>
-    <file name="u284-17-fs.png" crc="3992354645" ref="contact-me"/>
-  </folder>
-  <file name="index.html" crc="4087186706" mt="1437807547847" redirect="true"/>
-  <file name="portfolio.html" crc="4273856239" mt="1437807123590" redirect="true"/>
-  <file name="maps-on-line.html" crc="491484492" mt="1437807123592" redirect="true"/>
-  <file name="resume.html" crc="3789481761" mt="1437807737877" redirect="true"/>
-  <file name="contact-me.html" crc="282124438" mt="1437807123597" redirect="true"/>
+  <file name="index.html" crc="179082964" mt="1437884966994" redirect="true"/>
 </manifest>
