@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #EA6E94;
+	color: #000006;
+	background-color: #C5102A;
 }
 
 .html
@@ -12,23 +12,195 @@
 #page
 {
 	z-index: 1;
-	width: 743px;
-	min-height: 214px;
+	width: 627px;
+	min-height: 528px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 96px 125px 190px 92px;
+	padding: 20px 164px 58px 169px;
 }
 
-#u74-4
+#u153-4
+{
+	z-index: 27;
+	margin-left: 27px;
+}
+
+#u154-4
+{
+	z-index: 31;
+	margin-left: 27px;
+	margin-top: 2px;
+}
+
+#menuu116
 {
 	z-index: 2;
-	width: 743px;
-	min-height: 214px;
-	line-height: 43px;
-	font-size: 36px;
-	text-align: center;
-	font-weight: bold;
+	width: 627px;
+	margin-top: 5px;
+}
+
+#u124
+{
+	width: 155px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u125
+{
+	width: 155px;
+	padding-bottom: 17px;
+}
+
+#u125:hover
+{
+	margin: 0px;
+}
+
+#u125:active
+{
+	margin: 0px;
+}
+
+#u161
+{
+	width: 155px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 157px;
+}
+
+#u162
+{
+	width: 155px;
+	padding-bottom: 17px;
+}
+
+#u125.MuseMenuActive,#u162:hover
+{
+	margin: 0px;
+}
+
+#u162:active
+{
+	margin: 0px;
+}
+
+#u1910
+{
+	width: 155px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 314px;
+}
+
+#u1913
+{
+	width: 155px;
+	padding-bottom: 17px;
+}
+
+#u162.MuseMenuActive,#u1913:hover
+{
+	margin: 0px;
+}
+
+#u1913:active
+{
+	margin: 0px;
+}
+
+#u126-4_clip,#u164-4_clip,#u1916-4_clip
+{
+	width: 155px;
+	height: 17px;
+}
+
+#u200
+{
+	width: 156px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 471px;
+}
+
+#u203
+{
+	width: 156px;
+	padding-bottom: 17px;
+}
+
+#u1913.MuseMenuActive,#u203:hover
+{
+	margin: 0px;
+}
+
+#u203:active
+{
+	margin: 0px;
+}
+
+#u203.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u204-4_clip
+{
+	width: 156px;
+	height: 17px;
+}
+
+#u126-4,#u164-4,#u1916-4,#u204-4
+{
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#pu233-3
+{
+	width: 0.01px;
+	margin-top: 5px;
+}
+
+#u233-3
+{
+	z-index: 35;
+	width: 568px;
+	height: 267px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 27px;
+}
+
+#u235
+{
+	z-index: 38;
+	width: 622px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u2209
+{
+	z-index: 70;
+	width: 77px;
+	height: 75px;
+	border-color: #000000;
 	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+	background: #C7B299 url("../images/screen%20shot%202015-07-17%20at%2035235%20am.jpg") no-repeat left top;
+}
+
+#u234-31
+{
+	z-index: 39;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 85px;
 }
 
 body
