@@ -1,7 +1,7 @@
 .version.r_sum_ /* version checker */
 {
-	color: #000017;
-	background-color: #B5ED3E;
+	color: #0000E6;
+	background-color: #859B4A;
 }
 
 .html
@@ -208,6 +208,7 @@
 {
 	z-index: 41;
 	width: 700px;
+	padding-bottom: 0px;
 	position: relative;
 }
 
