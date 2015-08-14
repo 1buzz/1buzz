@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #000001;
-	background-color: #25BF8C;
+	color: #0000F5;
+	background-color: #E58498;
 }
 
 .html
@@ -161,7 +161,6 @@
 #pu233-3
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 5px;
 }
 
@@ -172,7 +171,7 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 65px;
+	left: 66px;
 }
 
 #u235
@@ -181,7 +180,7 @@
 	width: 622px;
 	padding-bottom: 307px;
 	margin-right: -10000px;
-	left: 38px;
+	left: 39px;
 }
 
 #u2549
@@ -201,7 +200,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 247px;
-	left: 726px;
+	left: 727px;
 }
 
 #accordionu1585
@@ -1058,7 +1057,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1006px;
-	left: 609px;
+	left: 610px;
 }
 
 body

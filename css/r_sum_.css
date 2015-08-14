@@ -1,7 +1,7 @@
 .version.r_sum_ /* version checker */
 {
-	color: #000011;
-	background-color: #ABAE7C;
+	color: #000017;
+	background-color: #3DFAF2;
 }
 
 .html
@@ -12,11 +12,11 @@
 #page
 {
 	z-index: 1;
-	width: 710px;
+	width: 700px;
 	min-height: 480px;
 	padding-left: 130px;
 	padding-top: 20px;
-	padding-right: 120px;
+	padding-right: 130px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -198,7 +198,7 @@
 #accordionu317
 {
 	z-index: 40;
-	width: 710px;
+	width: 700px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
@@ -207,7 +207,7 @@
 #u332
 {
 	z-index: 41;
-	width: 710px;
+	width: 700px;
 	padding-bottom: 0px;
 	position: relative;
 }
@@ -216,7 +216,7 @@
 {
 	z-index: 43;
 	height: 38px;
-	width: 710px;
+	width: 700px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u333.png") no-repeat 0px 0px;
@@ -247,7 +247,7 @@
 	background-color: #FFFFFF;
 	padding-left: 8px;
 	padding-top: 3px;
-	padding-right: 10px;
+	padding-bottom: 2px;
 	position: relative;
 }
 
@@ -265,15 +265,14 @@
 	width: 140px;
 	min-height: 19px;
 	text-align: right;
-	margin-left: 550px;
-	margin-top: 4px;
+	margin-left: 546px;
 	position: relative;
 }
 
 #u324
 {
 	z-index: 59;
-	width: 710px;
+	width: 700px;
 	position: relative;
 }
 
@@ -281,7 +280,7 @@
 {
 	z-index: 61;
 	height: 38px;
-	width: 710px;
+	width: 700px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u325.png") no-repeat 0px 0px;
@@ -305,7 +304,7 @@
 #u326
 {
 	z-index: 65;
-	width: 708px;
+	width: 698px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -328,7 +327,7 @@
 #u328
 {
 	z-index: 79;
-	width: 710px;
+	width: 700px;
 	position: relative;
 }
 
@@ -336,7 +335,7 @@
 {
 	z-index: 81;
 	height: 38px;
-	width: 710px;
+	width: 700px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u329.png") no-repeat 0px 0px;
@@ -360,7 +359,7 @@
 #u330
 {
 	z-index: 85;
-	width: 708px;
+	width: 698px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -383,7 +382,7 @@
 #u321
 {
 	z-index: 112;
-	width: 710px;
+	width: 700px;
 	position: relative;
 }
 
@@ -391,7 +390,7 @@
 {
 	z-index: 114;
 	height: 38px;
-	width: 710px;
+	width: 700px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u322.png") no-repeat 0px 0px;
@@ -415,7 +414,7 @@
 #u323
 {
 	z-index: 118;
-	width: 708px;
+	width: 698px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
