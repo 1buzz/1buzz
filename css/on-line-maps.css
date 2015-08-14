@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #0000E7;
-	background-color: #8BFBFF;
+	color: #000018;
+	background-color: #6E06EC;
 }
 
 .html
@@ -12,23 +12,23 @@
 #page
 {
 	z-index: 1;
-	width: 732px;
+	width: 794px;
 	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 98px 62px 130px;
+	padding: 20px 98px 62px 68px;
 }
 
 #u153-4
 {
 	z-index: 27;
-	margin-left: 66px;
+	margin-left: 128px;
 }
 
 #u154-4
 {
 	z-index: 31;
-	margin-left: 66px;
+	margin-left: 128px;
 	top: -5px;
 	margin-bottom: -5px;
 }
@@ -37,6 +37,7 @@
 {
 	z-index: 2;
 	width: 700px;
+	margin-left: 62px;
 	margin-top: 5px;
 }
 
@@ -171,16 +172,15 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 66px;
+	left: 128px;
 }
 
 #u235
 {
 	z-index: 38;
 	width: 622px;
-	padding-bottom: 244px;
+	padding-bottom: 307px;
 	margin-right: -10000px;
-	left: 39px;
 }
 
 #u2549
@@ -189,8 +189,8 @@
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
-	margin-top: 124px;
-	left: 205px;
+	margin-top: 61px;
+	left: 115px;
 }
 
 #u1905-3
@@ -200,7 +200,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 247px;
-	left: 727px;
+	left: 789px;
 }
 
 #accordionu1844
@@ -209,6 +209,7 @@
 	width: 701px;
 	position: relative;
 	margin-right: -10000px;
+	left: 62px;
 }
 
 #u1885

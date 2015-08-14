@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #14D6D6;
+	color: #0000E0;
+	background-color: #D8D046;
 }
 
 .html
@@ -12,23 +12,23 @@
 #page
 {
 	z-index: 1;
-	width: 700px;
+	width: 762px;
 	min-height: 523.7px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 130px 62.299999999999955px;
+	padding: 20px 130px 62.299999999999955px 68px;
 }
 
 #u153-4
 {
 	z-index: 27;
-	margin-left: 66px;
+	margin-left: 128px;
 }
 
 #u154-4
 {
 	z-index: 31;
-	margin-left: 66px;
+	margin-left: 128px;
 	top: -5px;
 	margin-bottom: -5px;
 }
@@ -37,6 +37,7 @@
 {
 	z-index: 2;
 	width: 700px;
+	margin-left: 62px;
 	margin-top: 5px;
 }
 
@@ -171,16 +172,15 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 66px;
+	left: 128px;
 }
 
 #u235
 {
 	z-index: 38;
 	width: 622px;
-	padding-bottom: 244px;
+	padding-bottom: 307px;
 	margin-right: -10000px;
-	left: 39px;
 }
 
 #u2549
@@ -189,8 +189,8 @@
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
-	margin-top: 124px;
-	left: 205px;
+	margin-top: 61px;
+	left: 115px;
 }
 
 #u234-30
@@ -200,7 +200,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 88px;
+	left: 150px;
 }
 
 #u2209
@@ -211,6 +211,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
+	left: 62px;
 	background: #C7B299 url("../images/screen%20shot%202015-07-17%20at%2035235%20am.jpg") no-repeat left top;
 }
 
@@ -225,7 +226,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 414px;
-	left: 497px;
+	left: 559px;
 }
 
 body

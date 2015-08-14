@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #000012;
-	background-color: #79703C;
+	color: #000009;
+	background-color: #0B0ACC;
 }
 
 .html
@@ -34,7 +34,7 @@
 #pmenuu116
 {
 	width: 0.01px;
-	margin-left: 100px;
+	margin-left: 68px;
 	margin-top: -5px;
 }
 
@@ -44,7 +44,7 @@
 	width: 700px;
 	margin-right: -10000px;
 	margin-top: 22px;
-	left: 30px;
+	left: 62px;
 }
 
 #u124
@@ -169,7 +169,7 @@
 {
 	z-index: 31;
 	margin-right: -10000px;
-	left: 96px;
+	left: 128px;
 }
 
 #u233-3
@@ -179,17 +179,16 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 88px;
-	left: 96px;
+	left: 128px;
 }
 
 #u235
 {
 	z-index: 38;
 	width: 622px;
-	padding-bottom: 244px;
+	padding-bottom: 307px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	left: 69px;
 }
 
 #u2549
@@ -198,8 +197,8 @@
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
-	margin-top: 124px;
-	left: 205px;
+	margin-top: 61px;
+	left: 115px;
 }
 
 #u366-3
@@ -209,7 +208,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 308px;
-	left: 757px;
+	left: 789px;
 }
 
 #accordionu1585
@@ -220,6 +219,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
+	left: 32px;
 }
 
 #u1586
@@ -604,10 +604,10 @@
 #u2550
 {
 	z-index: 91;
-	width: 24px;
+	width: 18px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 66px;
+	margin-top: 69px;
 	left: 382px;
 }
 
@@ -1061,7 +1061,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1067px;
-	left: 640px;
+	left: 672px;
 }
 
 body
