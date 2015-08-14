@@ -1,7 +1,7 @@
 .version.r_sum_ /* version checker */
 {
-	color: #00000E;
-	background-color: #0A79D4;
+	color: #0000EF;
+	background-color: #4C5A67;
 }
 
 .html
@@ -13,12 +13,10 @@
 {
 	z-index: 1;
 	width: 700px;
-	min-height: 480px;
-	padding-left: 130px;
-	padding-top: 20px;
-	padding-right: 130px;
+	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 20px 130px 62px;
 }
 
 #u153-4
@@ -163,7 +161,6 @@
 #pu233-3
 {
 	width: 0.01px;
-	margin-left: 39px;
 	margin-top: 5px;
 }
 
@@ -174,15 +171,16 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 27px;
+	left: 66px;
 }
 
 #u235
 {
 	z-index: 38;
 	width: 622px;
-	padding-bottom: 154px;
+	height: 468px;
 	margin-right: -10000px;
+	left: 39px;
 }
 
 #accordionu317
@@ -191,14 +189,12 @@
 	width: 700px;
 	position: relative;
 	margin-right: -10000px;
-	left: -39px;
 }
 
 #u332
 {
 	z-index: 40;
 	width: 700px;
-	padding-bottom: 0px;
 	position: relative;
 }
 
@@ -424,6 +420,20 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: 12px;
+}
+
+#u2548
+{
+	z-index: 208;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 822px;
+	left: 498px;
 }
 
 .AccordionPanelTab /* accordion */

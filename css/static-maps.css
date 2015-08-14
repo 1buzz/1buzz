@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #000010;
-	background-color: #4F9A61;
+	color: #0000F6;
+	background-color: #751894;
 }
 
 .html
@@ -12,11 +12,11 @@
 #page
 {
 	z-index: 1;
-	width: 760px;
-	min-height: 417.9994999999999px;
+	width: 810px;
+	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 70px 62.0005000000001px 130px;
+	padding: 20px 20px 62px 130px;
 }
 
 #u153-4
@@ -196,7 +196,7 @@
 #accordionu1585
 {
 	z-index: 42;
-	width: 701px;
+	width: 793px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -204,7 +204,7 @@
 #u1586
 {
 	z-index: 43;
-	width: 701px;
+	width: 793px;
 	position: relative;
 }
 
@@ -212,7 +212,7 @@
 {
 	z-index: 45;
 	height: 38px;
-	width: 701px;
+	width: 793px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u1589.png") no-repeat 0px 0px;
@@ -236,7 +236,7 @@
 #u1587
 {
 	z-index: 49;
-	width: 699px;
+	width: 791px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -558,15 +558,21 @@
 	position: relative;
 }
 
+#pu1792-4
+{
+	width: 0.01px;
+	margin-left: 257px;
+	margin-top: -363px;
+}
+
 #u1792-4
 {
 	z-index: 74;
 	display: block;
 	vertical-align: top;
-	margin-left: 257px;
-	top: -555px;
-	margin-bottom: -153px;
 	position: relative;
+	margin-right: -10000px;
+	left: 92px;
 }
 
 #u2520-6
@@ -574,10 +580,8 @@
 	z-index: 78;
 	display: block;
 	vertical-align: top;
-	margin-left: 257px;
-	top: -363px;
-	margin-bottom: -132px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u2521-4
@@ -594,7 +598,7 @@
 #u1590
 {
 	z-index: 88;
-	width: 701px;
+	width: 793px;
 	position: relative;
 }
 
@@ -602,7 +606,7 @@
 {
 	z-index: 90;
 	height: 38px;
-	width: 701px;
+	width: 793px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u1593.png") no-repeat 0px 0px;
@@ -626,7 +630,7 @@
 #u1591
 {
 	z-index: 94;
-	width: 699px;
+	width: 791px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -872,7 +876,7 @@
 #u2459
 {
 	z-index: 124;
-	width: 701px;
+	width: 793px;
 	position: relative;
 }
 
@@ -880,7 +884,7 @@
 {
 	z-index: 126;
 	height: 38px;
-	width: 701px;
+	width: 793px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u2472.png") no-repeat 0px 0px;
@@ -904,7 +908,7 @@
 #u2460
 {
 	z-index: 130;
-	width: 699px;
+	width: 791px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1017,6 +1021,20 @@
 .PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton,.AccordionPanelTab /* pamphlet2 */
 {
 	cursor: pointer;
+}
+
+#u2545
+{
+	z-index: 142;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1006px;
+	left: 610px;
 }
 
 body

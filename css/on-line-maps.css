@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #00001C;
-	background-color: #9290DD;
+	color: #000018;
+	background-color: #4BFB9B;
 }
 
 .html
@@ -13,10 +13,10 @@
 {
 	z-index: 1;
 	width: 732px;
-	min-height: 341px;
+	min-height: 162px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 98px 139px 130px;
+	padding: 20px 98px 318px 130px;
 }
 
 #u153-4
@@ -186,7 +186,8 @@
 {
 	z-index: 42;
 	width: 701px;
-	margin-bottom: -77px;
+	padding-bottom: 0px;
+	margin-bottom: -256px;
 	position: relative;
 	margin-right: -10000px;
 	left: -39px;
@@ -232,15 +233,15 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -4px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
 #u1886_position_content
 {
 	margin-top: -1px;
-	padding-bottom: 9px;
+	padding-bottom: 8px;
 }
 
 #u1925
@@ -269,6 +270,9 @@
 {
 	z-index: 55;
 	width: 701px;
+	padding-bottom: 0px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 }
 
@@ -305,7 +309,6 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	padding-bottom: 14px;
 	position: relative;
 }
 
@@ -318,6 +321,20 @@
 	margin-right: -10000px;
 	margin-top: 595px;
 	left: -1px;
+}
+
+#u2547
+{
+	z-index: 68;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 548px;
+	left: 499px;
 }
 
 .AccordionPanelTab /* accordion */

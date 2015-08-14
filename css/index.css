@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #22CA24;
+	color: #0000ED;
+	background-color: #D2C559;
 }
 
 .html
@@ -13,10 +13,10 @@
 {
 	z-index: 1;
 	width: 700px;
-	min-height: 482px;
+	min-height: 523.7px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 130px 104px;
+	padding: 20px 130px 62.299999999999955px;
 }
 
 #u153-4
@@ -202,6 +202,20 @@
 	position: relative;
 	margin-right: -10000px;
 	background: #C7B299 url("../images/screen%20shot%202015-07-17%20at%2035235%20am.jpg") no-repeat left top;
+}
+
+#u2544
+{
+	z-index: 70;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 414px;
+	left: 497px;
 }
 
 body

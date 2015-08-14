@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439524282827">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439524924001">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -13,10 +13,10 @@
     <file name="u233-3.png" crc="416954190" ref="index:static-maps:résumé:on-line-maps"/>
     <file name="screen shot 2015-07-17 at 35235 am.jpg" crc="3840198037" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="static-maps:résumé:on-line-maps"/>
-    <file name="u1589.png" crc="3787528963" ref="static-maps"/>
-    <file name="u1589-r.png" crc="86056458" ref="static-maps"/>
-    <file name="u1589-m.png" crc="86056458" ref="static-maps"/>
-    <file name="u1589-a.png" crc="4065787327" ref="static-maps"/>
+    <file name="u1589.png" crc="3797434952" ref="static-maps"/>
+    <file name="u1589-r.png" crc="4209361117" ref="static-maps"/>
+    <file name="u1589-m.png" crc="4209361117" ref="static-maps"/>
+    <file name="u1589-a.png" crc="4149822153" ref="static-maps"/>
     <file name="jll-lu thumb-u1785-fr.png" crc="436284217" ref="static-maps"/>
     <file name="favelas thumb-u1786-fr.png" crc="4113449223" ref="static-maps"/>
     <file name="vgi thumb-u1787-fr.png" crc="118302228" ref="static-maps"/>
@@ -30,10 +30,10 @@
     <file name="u1588-6.png" crc="3892402454" ref="static-maps"/>
     <file name="u1791-5.png" crc="289336461" ref="static-maps"/>
     <file name="u1792-4.png" crc="51229003" ref="static-maps"/>
-    <file name="u1593.png" crc="379333461" ref="static-maps"/>
-    <file name="u1593-r.png" crc="199170606" ref="static-maps"/>
-    <file name="u1593-m.png" crc="199170606" ref="static-maps"/>
-    <file name="u1593-a.png" crc="38828243" ref="static-maps"/>
+    <file name="u1593.png" crc="3877509469" ref="static-maps"/>
+    <file name="u1593-r.png" crc="4223228277" ref="static-maps"/>
+    <file name="u1593-m.png" crc="4223228277" ref="static-maps"/>
+    <file name="u1593-a.png" crc="4188207249" ref="static-maps"/>
     <file name="a333-panel thumb-u1801-fr.png" crc="420015621" ref="static-maps"/>
     <file name="sketchup thumb-u1802-fr.png" crc="278004523" ref="static-maps"/>
     <file name="lasalle thumb-u1803-fr.png" crc="3982794667" ref="static-maps"/>
@@ -41,10 +41,10 @@
     <file name="sketchup-u1797-fr.png" crc="458716666" ref="static-maps"/>
     <file name="lasalle-u1798-fr.png" crc="470501744" ref="static-maps"/>
     <file name="u1592-4.png" crc="306360526" ref="static-maps"/>
-    <file name="u2472.png" crc="4065488675" ref="static-maps"/>
-    <file name="u2472-r.png" crc="4135791526" ref="static-maps"/>
-    <file name="u2472-m.png" crc="4135791526" ref="static-maps"/>
-    <file name="u2472-a.png" crc="4019281095" ref="static-maps"/>
+    <file name="u2472.png" crc="3910644170" ref="static-maps"/>
+    <file name="u2472-r.png" crc="32770056" ref="static-maps"/>
+    <file name="u2472-m.png" crc="32770056" ref="static-maps"/>
+    <file name="u2472-a.png" crc="263309582" ref="static-maps"/>
     <file name="poster thumb-u2477-fr.png" crc="4180385609" ref="static-maps"/>
     <file name="poster-u2475-fr.png" crc="4254345389" ref="static-maps"/>
     <file name="u2483-6.png" crc="4169753824" ref="static-maps"/>
@@ -86,11 +86,11 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="170052132" ref="index"/>
+    <file name="index.css" crc="3990013273" ref="index"/>
     <file name="master_a-master.css" crc="472948912" ref="on-line-maps:index:static-maps:résumé"/>
-    <file name="on-line-maps.css" crc="479367389" ref="on-line-maps"/>
-    <file name="static-maps.css" crc="273652321" ref="static-maps"/>
-    <file name="r_sum_.css" crc="235567572" ref="résumé"/>
+    <file name="on-line-maps.css" crc="407632795" ref="on-line-maps"/>
+    <file name="static-maps.css" crc="4134869140" ref="static-maps"/>
+    <file name="r_sum_.css" crc="4014758503" ref="résumé"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:static-maps:résumé:on-line-maps"/>
@@ -106,8 +106,8 @@
     <file name="touchswipe.js" crc="12843993" ref="static-maps"/>
     <file name="musewpdisclosure.js" crc="4130026270" ref="static-maps:résumé:on-line-maps"/>
   </folder>
-  <file name="index.html" crc="3842144957" mt="1439523906543" redirect="true"/>
-  <file name="static-maps.html" crc="302305627" mt="1439523906545" redirect="true"/>
-  <file name="résumé.html" crc="3940319028" mt="1439523906546" redirect="true"/>
-  <file name="on-line-maps.html" crc="276377872" mt="1439524280740" redirect="true"/>
+  <file name="index.html" crc="3778486105" mt="1439524782165" redirect="true"/>
+  <file name="static-maps.html" crc="3864214129" mt="1439524804592" redirect="true"/>
+  <file name="résumé.html" crc="4050145782" mt="1439524879466" redirect="true"/>
+  <file name="on-line-maps.html" crc="4267350072" mt="1439524922185" redirect="true"/>
 </manifest>
