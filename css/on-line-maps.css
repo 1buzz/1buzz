@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #00000E;
-	background-color: #27F93E;
+	color: #0000EC;
+	background-color: #5C0CEF;
 }
 
 .html
@@ -12,23 +12,23 @@
 #page
 {
 	z-index: 1;
-	width: 794px;
+	width: 732px;
 	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 98px 62px 68px;
+	padding: 20px 98px 62px 130px;
 }
 
 #u153-4
 {
 	z-index: 27;
-	margin-left: 128px;
+	margin-left: 66px;
 }
 
 #u154-4
 {
 	z-index: 31;
-	margin-left: 128px;
+	margin-left: 66px;
 	top: -5px;
 	margin-bottom: -5px;
 }
@@ -37,7 +37,6 @@
 {
 	z-index: 2;
 	width: 700px;
-	margin-left: 62px;
 	margin-top: 5px;
 }
 
@@ -172,7 +171,7 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 128px;
+	left: 66px;
 }
 
 #u235
@@ -181,6 +180,7 @@
 	width: 622px;
 	padding-bottom: 307px;
 	margin-right: -10000px;
+	left: 39px;
 }
 
 #u2549
@@ -190,7 +190,7 @@
 	min-height: 100px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	left: 115px;
+	left: 14px;
 }
 
 #u1905-3
@@ -200,7 +200,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 247px;
-	left: 789px;
+	left: 727px;
 }
 
 #accordionu1844
@@ -209,7 +209,6 @@
 	width: 701px;
 	position: relative;
 	margin-right: -10000px;
-	left: 62px;
 }
 
 #u1885
