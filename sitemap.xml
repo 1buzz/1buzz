@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://1buzz.me/assets/modelbuilder.png</loc>
+    <lastmod>2015-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://1buzz.me/images/u153-4.png</loc>
     <lastmod>2015-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -415,12 +421,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://1buzz.me/images/u2520-6.png</loc>
-    <lastmod>2015-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://1buzz.me/images/u2521-4.png</loc>
     <lastmod>2015-08-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -482,6 +482,18 @@
   </url>
   <url>
     <loc>http://1buzz.me/images/u2541-6.png</loc>
+    <lastmod>2015-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://1buzz.me/images/u2520-8.png</loc>
+    <lastmod>2015-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://1buzz.me/images/modelbuildericon.png</loc>
     <lastmod>2015-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

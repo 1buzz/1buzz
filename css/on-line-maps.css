@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #00000E;
-	background-color: #47AA32;
+	color: #0000E7;
+	background-color: #8BFBFF;
 }
 
 .html
@@ -178,7 +178,7 @@
 {
 	z-index: 38;
 	width: 622px;
-	padding-bottom: 57px;
+	padding-bottom: 244px;
 	margin-right: -10000px;
 	left: 39px;
 }
@@ -189,8 +189,8 @@
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
-	margin-top: 311px;
-	left: 446px;
+	margin-top: 124px;
+	left: 205px;
 }
 
 #u1905-3
