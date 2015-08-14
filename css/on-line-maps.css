@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #000018;
-	background-color: #4BFB9B;
+	color: #00000E;
+	background-color: #47AA32;
 }
 
 .html
@@ -13,10 +13,10 @@
 {
 	z-index: 1;
 	width: 732px;
-	min-height: 162px;
+	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 98px 318px 130px;
+	padding: 20px 98px 62px 130px;
 }
 
 #u153-4
@@ -161,7 +161,6 @@
 #pu233-3
 {
 	width: 0.01px;
-	margin-left: 39px;
 	margin-top: 5px;
 }
 
@@ -172,37 +171,56 @@
 	height: 267px;
 	margin-right: -10000px;
 	margin-top: 27px;
-	left: 27px;
+	left: 66px;
 }
 
 #u235
 {
 	z-index: 38;
 	width: 622px;
+	padding-bottom: 57px;
 	margin-right: -10000px;
+	left: 39px;
+}
+
+#u2549
+{
+	z-index: 39;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: 311px;
+	left: 446px;
+}
+
+#u1905-3
+{
+	z-index: 40;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 247px;
+	left: 727px;
 }
 
 #accordionu1844
 {
-	z-index: 42;
+	z-index: 43;
 	width: 701px;
-	padding-bottom: 0px;
-	margin-bottom: -256px;
 	position: relative;
 	margin-right: -10000px;
-	left: -39px;
 }
 
 #u1885
 {
-	z-index: 43;
+	z-index: 44;
 	width: 701px;
 	position: relative;
 }
 
 #u1904
 {
-	z-index: 45;
+	z-index: 46;
 	height: 38px;
 	width: 701px;
 	vertical-align: top;
@@ -227,14 +245,14 @@
 
 #u1886
 {
-	z-index: 49;
+	z-index: 50;
 	width: 699px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	top: -4px;
-	margin-bottom: -1px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
 }
 
@@ -246,7 +264,7 @@
 
 #u1925
 {
-	z-index: 50;
+	z-index: 51;
 	width: 700px;
 	min-height: 410px;
 	border-style: none;
@@ -258,7 +276,7 @@
 
 #u2540-4
 {
-	z-index: 51;
+	z-index: 52;
 	display: block;
 	vertical-align: top;
 	left: -1px;
@@ -268,17 +286,14 @@
 
 #u1917
 {
-	z-index: 55;
+	z-index: 56;
 	width: 701px;
-	padding-bottom: 0px;
-	top: -4px;
-	margin-bottom: -4px;
 	position: relative;
 }
 
 #u1919
 {
-	z-index: 57;
+	z-index: 58;
 	height: 38px;
 	width: 701px;
 	vertical-align: top;
@@ -303,7 +318,7 @@
 
 #u1918
 {
-	z-index: 61;
+	z-index: 62;
 	width: 699px;
 	border-width: 1px;
 	border-style: solid;
@@ -314,7 +329,7 @@
 
 #u2541-6
 {
-	z-index: 62;
+	z-index: 63;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -325,7 +340,7 @@
 
 #u2547
 {
-	z-index: 68;
+	z-index: 69;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -340,16 +355,6 @@
 .AccordionPanelTab /* accordion */
 {
 	cursor: pointer;
-}
-
-#u1905-3
-{
-	z-index: 39;
-	width: 5px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 247px;
-	left: 688px;
 }
 
 body

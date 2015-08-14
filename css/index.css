@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #0000ED;
-	background-color: #D2C559;
+	background-color: #ACD891;
 }
 
 .html
@@ -178,24 +178,34 @@
 {
 	z-index: 38;
 	width: 622px;
+	padding-bottom: 57px;
 	margin-right: -10000px;
 	left: 39px;
 }
 
-#u234-30
+#u2549
 {
 	z-index: 39;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: 311px;
+	left: 446px;
+}
+
+#u234-30
+{
+	z-index: 40;
 	display: block;
 	vertical-align: top;
-	margin-bottom: -42px;
 	position: relative;
 	margin-right: -10000px;
-	left: 49px;
+	left: 88px;
 }
 
 #u2209
 {
-	z-index: 69;
+	z-index: 70;
 	width: 77px;
 	height: 75px;
 	border-color: #000000;
@@ -206,7 +216,7 @@
 
 #u2544
 {
-	z-index: 70;
+	z-index: 71;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
