@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #000006;
-	background-color: #8E43DF;
+	color: #00000E;
+	background-color: #AEE91C;
 }
 
 .html
@@ -658,13 +658,14 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	position: relative;
 }
 
 #u1591_position_content
 {
-	margin-top: -1px;
-	padding-bottom: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #pamphletu1793
@@ -808,7 +809,7 @@
 	background-color: #565656;
 	background-color: rgba(68, 68, 68, 0.9);
 	padding-bottom: 44px;
-	top: -92px;
+	top: -103px;
 	left: 833px;
 	-pie-background: rgba(68, 68, 68, 0.9);
 }
@@ -892,7 +893,7 @@
 	vertical-align: top;
 	margin-left: 258px;
 	top: -170px;
-	margin-bottom: -153px;
+	margin-bottom: -170px;
 	position: relative;
 }
 
@@ -936,7 +937,7 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	padding-bottom: 22px;
+	padding-bottom: 20px;
 	position: relative;
 }
 
@@ -947,7 +948,7 @@
 	height: 170px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
+	margin-top: 8px;
 	left: 10px;
 }
 
@@ -1005,7 +1006,7 @@
 	background-color: #565656;
 	background-color: rgba(68, 68, 68, 0.9);
 	padding-bottom: 44px;
-	top: -3px;
+	top: -5px;
 	left: 622px;
 	-pie-background: rgba(68, 68, 68, 0.9);
 }
@@ -1037,7 +1038,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
+	margin-top: 8px;
 	left: 257px;
 }
 
