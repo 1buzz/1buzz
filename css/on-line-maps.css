@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #000003;
-	background-color: #FF1F09;
+	color: #00000E;
+	background-color: #27F93E;
 }
 
 .html
@@ -259,7 +259,7 @@
 
 #u1886_position_content
 {
-	padding-top: 9px;
+	padding-top: 21px;
 	padding-bottom: 4px;
 }
 
@@ -267,7 +267,7 @@
 {
 	z-index: 51;
 	width: 700px;
-	min-height: 410px;
+	min-height: 398px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
