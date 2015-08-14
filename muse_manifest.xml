@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439524924001">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439525080254">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -89,8 +89,8 @@
     <file name="index.css" crc="3990013273" ref="index"/>
     <file name="master_a-master.css" crc="472948912" ref="on-line-maps:index:static-maps:résumé"/>
     <file name="on-line-maps.css" crc="407632795" ref="on-line-maps"/>
-    <file name="static-maps.css" crc="4134869140" ref="static-maps"/>
-    <file name="r_sum_.css" crc="4014758503" ref="résumé"/>
+    <file name="static-maps.css" crc="432911656" ref="static-maps"/>
+    <file name="r_sum_.css" crc="302441192" ref="résumé"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:static-maps:résumé:on-line-maps"/>
@@ -107,7 +107,7 @@
     <file name="musewpdisclosure.js" crc="4130026270" ref="static-maps:résumé:on-line-maps"/>
   </folder>
   <file name="index.html" crc="3778486105" mt="1439524782165" redirect="true"/>
-  <file name="static-maps.html" crc="3864214129" mt="1439524804592" redirect="true"/>
-  <file name="résumé.html" crc="4050145782" mt="1439524879466" redirect="true"/>
+  <file name="static-maps.html" crc="223745281" mt="1439525046450" redirect="true"/>
+  <file name="résumé.html" crc="3877781514" mt="1439524984719" redirect="true"/>
   <file name="on-line-maps.html" crc="4267350072" mt="1439524922185" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #0000F6;
-	background-color: #751894;
+	color: #000019;
+	background-color: #CDB528;
 }
 
 .html
@@ -558,21 +558,15 @@
 	position: relative;
 }
 
-#pu1792-4
-{
-	width: 0.01px;
-	margin-left: 257px;
-	margin-top: -363px;
-}
-
 #u1792-4
 {
 	z-index: 74;
 	display: block;
 	vertical-align: top;
+	margin-left: 257px;
+	top: -555px;
+	margin-bottom: -153px;
 	position: relative;
-	margin-right: -10000px;
-	left: 92px;
 }
 
 #u2520-6
@@ -580,8 +574,10 @@
 	z-index: 78;
 	display: block;
 	vertical-align: top;
+	margin-left: 257px;
+	top: -363px;
+	margin-bottom: -132px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u2521-4
