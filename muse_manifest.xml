@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439525906580">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439526138109">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -106,8 +106,8 @@
     <file name="touchswipe.js" crc="12843993" ref="static-maps"/>
     <file name="musewpdisclosure.js" crc="4130026270" ref="static-maps:résumé:on-line-maps"/>
   </folder>
-  <file name="index.html" crc="435456656" mt="1439525659409" redirect="true"/>
-  <file name="static-maps.html" crc="2527835" mt="1439525659416" redirect="true"/>
-  <file name="résumé.html" crc="318856790" mt="1439525659417" redirect="true"/>
-  <file name="on-line-maps.html" crc="376689188" mt="1439525904904" redirect="true"/>
+  <file name="index.html" crc="3783130864" mt="1439526055325" redirect="true"/>
+  <file name="static-maps.html" crc="167545405" mt="1439526068385" redirect="true"/>
+  <file name="résumé.html" crc="14298923" mt="1439526091748" redirect="true"/>
+  <file name="on-line-maps.html" crc="3855859481" mt="1439526136742" redirect="true"/>
 </manifest>
