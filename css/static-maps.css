@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #000009;
-	background-color: #0B0ACC;
+	color: #000005;
+	background-color: #03143D;
 }
 
 .html
@@ -12,39 +12,33 @@
 #page
 {
 	z-index: 1;
-	width: 960px;
-	min-height: 499.56908396946574px;
-	padding-bottom: 0px;
+	width: 872px;
+	min-height: 418px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	padding-top: 20px;
-	padding-bottom: 62px;
+	padding: 20px 20px 62px 68px;
 }
 
 #u153-4
 {
 	z-index: 27;
-	margin-left: 196px;
+	margin-left: 128px;
 }
 
-#pmenuu116
+#u154-4
 {
-	width: 0.01px;
-	margin-left: 68px;
-	margin-top: -5px;
+	z-index: 31;
+	margin-left: 128px;
+	top: -5px;
+	margin-bottom: -5px;
 }
 
 #menuu116
 {
 	z-index: 2;
 	width: 700px;
-	margin-right: -10000px;
-	margin-top: 22px;
-	left: 62px;
+	margin-left: 62px;
+	margin-top: 5px;
 }
 
 #u124
@@ -165,11 +159,10 @@
 	top: 7px;
 }
 
-#u154-4
+#pu233-3
 {
-	z-index: 31;
-	margin-right: -10000px;
-	left: 128px;
+	width: 0.01px;
+	margin-top: 5px;
 }
 
 #u233-3
@@ -178,7 +171,7 @@
 	width: 568px;
 	height: 267px;
 	margin-right: -10000px;
-	margin-top: 88px;
+	margin-top: 27px;
 	left: 128px;
 }
 
@@ -188,7 +181,6 @@
 	width: 622px;
 	padding-bottom: 307px;
 	margin-right: -10000px;
-	margin-top: 61px;
 }
 
 #u2549
@@ -207,26 +199,24 @@
 	width: 33px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 308px;
+	margin-top: 247px;
 	left: 789px;
 }
 
 #accordionu1585
 {
 	z-index: 43;
-	width: 1488px;
-	padding-bottom: 0px;
+	width: 701px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 32px;
+	margin-top: 2px;
+	left: 63px;
 }
 
 #u1586
 {
 	z-index: 44;
-	width: 1488px;
-	padding-bottom: 0px;
+	width: 701px;
 	position: relative;
 }
 
@@ -234,7 +224,7 @@
 {
 	z-index: 46;
 	height: 38px;
-	width: 1488px;
+	width: 701px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u1589.png") no-repeat 0px 0px;
@@ -258,13 +248,18 @@
 #u1587
 {
 	z-index: 50;
-	width: 690px;
+	width: 699px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
 	position: relative;
-	padding: 56px 756px 436px 40px;
+}
+
+#u1587_position_content
+{
+	padding-top: 9px;
+	padding-bottom: 15px;
 }
 
 #pamphletu1777
@@ -272,6 +267,7 @@
 	z-index: 57;
 	width: 0.01px;
 	height: 935px;
+	margin-left: 10px;
 	position: relative;
 }
 
@@ -326,7 +322,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: 188px;
+	top: 189px;
 	background: #C4C4C4 url("../images/favelas%20thumb-u1786-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -361,7 +357,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: 379px;
+	top: 380px;
 	background: #999999 url("../images/vgi%20thumb-u1787-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -386,7 +382,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: 571px;
+	top: 572px;
 	background: #999999 url("../images/spatial%20analysis%20imagery%20thumb-u2127-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -423,7 +419,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	top: 764px;
+	top: 765px;
 	background: #999999 url("../images/relative%20data%20thumb-u2129-fr.png") no-repeat center center;
 	background-size: cover;
 }
@@ -459,8 +455,8 @@
 	background-color: #191919;
 	background-color: rgba(0, 0, 0, 0.9);
 	padding-bottom: 44px;
-	top: 34px;
-	left: 799px;
+	top: 81px;
+	left: 829px;
 	-pie-background: rgba(0, 0, 0, 0.9);
 }
 
@@ -557,7 +553,7 @@
 	z-index: 51;
 	display: block;
 	vertical-align: top;
-	margin-left: 247px;
+	margin-left: 257px;
 	top: -935px;
 	margin-bottom: -154px;
 	position: relative;
@@ -568,7 +564,7 @@
 	z-index: 70;
 	display: block;
 	vertical-align: top;
-	margin-left: 247px;
+	margin-left: 257px;
 	top: -746px;
 	margin-bottom: -153px;
 	position: relative;
@@ -579,7 +575,7 @@
 	z-index: 75;
 	display: block;
 	vertical-align: top;
-	margin-left: 247px;
+	margin-left: 257px;
 	top: -555px;
 	margin-bottom: -153px;
 	position: relative;
@@ -588,7 +584,7 @@
 #pu2520-8
 {
 	width: 0.01px;
-	margin-left: 247px;
+	margin-left: 257px;
 	margin-top: -363px;
 }
 
@@ -607,8 +603,8 @@
 	width: 18px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
-	left: 382px;
+	margin-top: 116px;
+	left: 412px;
 }
 
 #u2521-4
@@ -616,7 +612,7 @@
 	z-index: 87;
 	display: block;
 	vertical-align: top;
-	margin-left: 247px;
+	margin-left: 257px;
 	top: -170px;
 	margin-bottom: -110px;
 	position: relative;
@@ -625,7 +621,7 @@
 #u1590
 {
 	z-index: 93;
-	width: 1488px;
+	width: 701px;
 	position: relative;
 }
 
@@ -633,7 +629,7 @@
 {
 	z-index: 95;
 	height: 38px;
-	width: 1488px;
+	width: 701px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u1593.png") no-repeat 0px 0px;
@@ -657,7 +653,7 @@
 #u1591
 {
 	z-index: 99;
-	width: 1486px;
+	width: 699px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -812,8 +808,8 @@
 	background-color: #565656;
 	background-color: rgba(68, 68, 68, 0.9);
 	padding-bottom: 44px;
-	top: -160px;
-	left: 702px;
+	top: -92px;
+	left: 833px;
 	-pie-background: rgba(68, 68, 68, 0.9);
 }
 
@@ -903,7 +899,7 @@
 #u2459
 {
 	z-index: 129;
-	width: 1488px;
+	width: 701px;
 	position: relative;
 }
 
@@ -911,7 +907,7 @@
 {
 	z-index: 131;
 	height: 38px;
-	width: 1488px;
+	width: 701px;
 	vertical-align: top;
 	position: relative;
 	background: url("../images/u2472.png") no-repeat 0px 0px;
@@ -935,7 +931,7 @@
 #u2460
 {
 	z-index: 135;
-	width: 1486px;
+	width: 699px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -952,7 +948,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
-	left: -1px;
+	left: 10px;
 }
 
 #u2476
@@ -1010,7 +1006,7 @@
 	background-color: rgba(68, 68, 68, 0.9);
 	padding-bottom: 44px;
 	top: -3px;
-	left: 633px;
+	left: 622px;
 	-pie-background: rgba(68, 68, 68, 0.9);
 }
 
@@ -1058,10 +1054,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-left: 672px;
+	margin-top: 538px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 1067px;
-	left: 672px;
 }
 
 body
