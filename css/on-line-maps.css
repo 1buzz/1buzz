@@ -1,7 +1,7 @@
 .version.on_line_maps /* version checker */
 {
-	color: #0000EC;
-	background-color: #5C0CEF;
+	color: #000009;
+	background-color: #EC5510;
 }
 
 .html
@@ -327,15 +327,30 @@
 	position: relative;
 }
 
+#u1918_position_content
+{
+	padding-top: 9px;
+}
+
+#u2674
+{
+	z-index: 70;
+	width: 700px;
+	min-height: 398px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: -1px;
+	position: relative;
+}
+
 #u2541-6
 {
 	z-index: 63;
 	display: block;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 595px;
 	left: -1px;
+	position: relative;
 }
 
 #u2547
@@ -346,10 +361,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-left: 499px;
+	margin-top: 104px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 548px;
-	left: 499px;
 }
 
 .AccordionPanelTab /* accordion */
