@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439928361270">
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439928551010">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -91,7 +91,7 @@
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="4184021843" ref="index"/>
     <file name="master_a-master.css" crc="4149966504" ref="on-line-maps:index:static-maps:résumé"/>
-    <file name="on-line-maps.css" crc="75130913" ref="on-line-maps"/>
+    <file name="on-line-maps.css" crc="166483216" ref="on-line-maps"/>
     <file name="static-maps.css" crc="4125459608" ref="static-maps"/>
     <file name="r_sum_.css" crc="389937906" ref="résumé"/>
   </folder>
@@ -112,5 +112,5 @@
   <file name="index.html" crc="3783130864" mt="1439533185608" redirect="true"/>
   <file name="static-maps.html" crc="215389578" mt="1439533144140" redirect="true"/>
   <file name="résumé.html" crc="139169967" mt="1439533350460" redirect="true"/>
-  <file name="on-line-maps.html" crc="3837974731" mt="1439928359021" redirect="true"/>
+  <file name="on-line-maps.html" crc="4214639503" mt="1439928549327" redirect="true"/>
 </manifest>
