@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1448675680377" iceMarkupVersion="2" domain="1buzz.me">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1448728512801" iceMarkupVersion="2" domain="1buzz.me">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -56,7 +56,6 @@
     <file name="u1904-r.png" crc="462258061" ref="on-line-maps"/>
     <file name="u1904-m.png" crc="462258061" ref="on-line-maps"/>
     <file name="u1904-a.png" crc="468941329" ref="on-line-maps"/>
-    <file name="u234-30.png" crc="4180057019" ref="index"/>
     <file name="u2521-4.png" crc="4027462871" ref="static-maps"/>
     <file name="u1807-4.png" crc="3963808882" ref="static-maps"/>
     <file name="u1808-12.png" crc="3779115194" ref="static-maps"/>
@@ -87,10 +86,11 @@
     <file name="lasalle.png" crc="4139394349" ref="static-maps"/>
     <file name="poster thumb.png" crc="285404897" ref="static-maps"/>
     <file name="poster.png" crc="189938105" ref="static-maps"/>
+    <file name="u234-31.png" crc="3918258903" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="144413960" ref="index"/>
+    <file name="index.css" crc="136806540" ref="index"/>
     <file name="master_a-master.css" crc="248212791" ref="on-line-maps:index:static-maps:résumé"/>
     <file name="on-line-maps.css" crc="3773191862" ref="on-line-maps"/>
     <file name="static-maps.css" crc="243619999" ref="static-maps"/>
@@ -110,7 +110,7 @@
     <file name="touchswipe.js" crc="4038331989" ref="static-maps"/>
     <file name="musewpdisclosure.js" crc="3993616448" ref="static-maps:résumé:on-line-maps"/>
   </folder>
-  <file name="index.html" crc="3850423673" mt="1448675633546" redirect="true" seo="true"/>
+  <file name="index.html" crc="60380089" mt="1448728488728" redirect="true" seo="true"/>
   <file name="static-maps.html" crc="443487128" mt="1448675633635" redirect="true" seo="true"/>
   <file name="résumé.html" crc="3917232794" mt="1448675633546" redirect="true" seo="true"/>
   <file name="on-line-maps.html" crc="4091815053" mt="1448675679954" redirect="true" seo="true"/>
