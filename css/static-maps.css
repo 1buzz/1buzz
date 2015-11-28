@@ -1,7 +1,7 @@
 .version.static_maps /* version checker */
 {
-	color: #0000F5;
-	background-color: #E58498;
+	color: #00000E;
+	background-color: #85589F;
 }
 
 .html
@@ -14,6 +14,10 @@
 	z-index: 1;
 	width: 810px;
 	min-height: 418px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 20px 20px 62px 130px;
@@ -55,12 +59,22 @@
 
 #u125:hover
 {
+	width: 173px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u125:active
 {
+	width: 173px;
+	min-height: 0px;
 	margin: 0px;
+}
+
+#u126-4_clip
+{
+	width: 173px;
+	height: 19px;
 }
 
 #u161
@@ -74,23 +88,34 @@
 #u162
 {
 	width: 173px;
-	padding-bottom: 15px;
+	padding-bottom: 14px;
 }
 
 #u125.MuseMenuActive,#u162:hover
 {
+	width: 173px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u162:active
 {
+	width: 173px;
+	min-height: 0px;
 	margin: 0px;
 }
 
-#u126-4_clip,#u164-4_clip
+#u162.MuseMenuActive
 {
 	width: 173px;
-	height: 19px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u164-4_clip
+{
+	width: 173px;
+	height: 20px;
 }
 
 #u1910
@@ -104,17 +129,27 @@
 #u1913
 {
 	width: 174px;
-	padding-bottom: 15px;
+	padding-bottom: 14px;
 }
 
-#u162.MuseMenuActive,#u1913:hover
+#u1913:hover
 {
+	width: 174px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u1913:active
 {
+	width: 174px;
+	min-height: 0px;
 	margin: 0px;
+}
+
+#u1916-4_clip
+{
+	width: 174px;
+	height: 20px;
 }
 
 #u200
@@ -133,20 +168,26 @@
 
 #u1913.MuseMenuActive,#u203:hover
 {
+	width: 174px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u203:active
 {
+	width: 174px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u203.MuseMenuActive
 {
+	width: 174px;
+	min-height: 0px;
 	margin: 0px;
 }
 
-#u1916-4_clip,#u204-4_clip
+#u204-4_clip
 {
 	width: 174px;
 	height: 19px;
@@ -197,6 +238,7 @@
 {
 	z-index: 40;
 	width: 33px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 247px;
@@ -207,6 +249,8 @@
 {
 	z-index: 43;
 	width: 701px;
+	border-color: #7F7F7F;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -216,6 +260,7 @@
 {
 	z-index: 44;
 	width: 701px;
+	background-color: transparent;
 	position: relative;
 }
 
@@ -287,7 +332,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background: #DEDEDE url("../images/jll-lu%20thumb-u1785-fr.png") no-repeat center center;
+	background: #DEDEDE url("../images/jll-lu%20thumb.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -298,7 +343,7 @@
 	height: 169px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/jll-lu%20thumb-u1785-fr.png") no-repeat center center;
+	background: #DEDEDE url("../images/jll-lu%20thumb.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -309,7 +354,7 @@
 	height: 169px;
 	min-height: 0px;
 	margin: 0px;
-	background: #DEDEDE url("../images/jll-lu%20thumb-u1785-fr.png") no-repeat center center;
+	background: #DEDEDE url("../images/jll-lu%20thumb.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -322,7 +367,7 @@
 	border-style: solid;
 	border-color: #000000;
 	top: 189px;
-	background: #C4C4C4 url("../images/favelas%20thumb-u1786-fr.png") no-repeat center center;
+	background: #C4C4C4 url("../images/favelas%20thumb.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -357,7 +402,7 @@
 	border-style: solid;
 	border-color: #000000;
 	top: 380px;
-	background: #999999 url("../images/vgi%20thumb-u1787-fr.png") no-repeat center center;
+	background: #999999 url("../images/vgi%20thumb.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -382,7 +427,7 @@
 	border-style: solid;
 	border-color: #000000;
 	top: 572px;
-	background: #999999 url("../images/spatial%20analysis%20imagery%20thumb-u2127-fr.png") no-repeat center center;
+	background: #999999 url("../images/spatial%20analysis%20imagery%20thumb.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -419,7 +464,7 @@
 	border-style: solid;
 	border-color: #000000;
 	top: 765px;
-	background: #999999 url("../images/relative%20data%20thumb-u2129-fr.png") no-repeat center center;
+	background: #999999 url("../images/relative%20data%20thumb.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -452,19 +497,21 @@
 	position: absolute;
 	width: 995px;
 	background-color: #191919;
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(0,0,0,0.9);
 	padding-bottom: 44px;
 	top: 81px;
 	left: 829px;
-	-pie-background: rgba(0, 0, 0, 0.9);
+	-pie-background: rgba(0,0,0,0.9);
 }
 
 #u1780:hover
 {
 	background-color: #191919;
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(0,0,0,0.9);
+	width: 995px;
+	min-height: 0px;
 	margin: 0px;
-	-pie-background: rgba(0, 0, 0, 0.9);
+	-pie-background: rgba(0,0,0,0.9);
 }
 
 #u1780popup
@@ -483,7 +530,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/jll-lu-u1783-fr.png") no-repeat center center;
+	background: transparent url("../images/jll-lu.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -498,7 +545,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/favelas-u1781-fr.png") no-repeat center center;
+	background: transparent url("../images/favelas.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -513,7 +560,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/vgi-u1782-fr.png") no-repeat center center;
+	background: transparent url("../images/vgi.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -528,7 +575,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/spatial%20analysis%20imagery-u2128-fr.png") no-repeat center center;
+	background: transparent url("../images/spatial%20analysis%20imagery.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -600,6 +647,7 @@
 {
 	z-index: 91;
 	width: 18px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 66px;
@@ -621,6 +669,7 @@
 {
 	z-index: 93;
 	width: 701px;
+	background-color: transparent;
 	position: relative;
 }
 
@@ -693,7 +742,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #999999;
-	background: #000000 url("../images/a333-panel%20thumb-u1801-fr.png") no-repeat center center;
+	background: #000000 url("../images/a333-panel%20thumb.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -732,7 +781,7 @@
 	border-style: solid;
 	border-color: #C4C4C4;
 	top: 188px;
-	background: #000000 url("../images/sketchup%20thumb-u1802-fr.png") no-repeat center center;
+	background: #000000 url("../images/sketchup%20thumb.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -771,7 +820,7 @@
 	border-style: solid;
 	border-color: #000000;
 	top: 377px;
-	background: #000000 url("../images/lasalle%20thumb-u1803-fr.png") no-repeat left top;
+	background: #000000 url("../images/lasalle%20thumb.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -806,11 +855,11 @@
 	position: absolute;
 	width: 995px;
 	background-color: #565656;
-	background-color: rgba(68, 68, 68, 0.9);
+	background-color: rgba(68,68,68,0.9);
 	padding-bottom: 44px;
 	top: -103px;
 	left: 833px;
-	-pie-background: rgba(68, 68, 68, 0.9);
+	-pie-background: rgba(68,68,68,0.9);
 }
 
 #u1796popup
@@ -829,7 +878,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/a333-panel-u1799-fr.png") no-repeat center center;
+	background: transparent url("../images/a333-panel.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -844,7 +893,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/sketchup-u1797-fr.png") no-repeat center center;
+	background: transparent url("../images/sketchup.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -859,7 +908,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/lasalle-u1798-fr.png") no-repeat center center;
+	background: transparent url("../images/lasalle.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -900,6 +949,7 @@
 {
 	z-index: 129;
 	width: 701px;
+	background-color: transparent;
 	position: relative;
 }
 
@@ -968,7 +1018,7 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background: #000000 url("../images/poster%20thumb-u2477-fr.png") no-repeat center center;
+	background: #000000 url("../images/poster%20thumb.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -1003,11 +1053,11 @@
 	position: absolute;
 	width: 995px;
 	background-color: #565656;
-	background-color: rgba(68, 68, 68, 0.9);
+	background-color: rgba(68,68,68,0.9);
 	padding-bottom: 44px;
 	top: -5px;
 	left: 622px;
-	-pie-background: rgba(68, 68, 68, 0.9);
+	-pie-background: rgba(68,68,68,0.9);
 }
 
 #u2474popup
@@ -1026,7 +1076,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: transparent url("../images/poster-u2475-fr.png") no-repeat center center;
+	background: transparent url("../images/poster.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -1041,7 +1091,7 @@
 	left: 257px;
 }
 
-.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton,.AccordionPanelTab /* pamphlet2 */
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.AccordionPanelTab /* pamphlet2 */
 {
 	cursor: pointer;
 }

@@ -1,116 +1,117 @@
-<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1439928551010">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1448675680377" iceMarkupVersion="2" domain="1buzz.me">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
     <file name="modelbuilder.png" crc="130802901" mt="1439518016000"/>
     <file name="modelbuilders.png" crc="4206295478" mt="1439531621000"/>
+    <file name="jbuzzetti_resume.pdf" crc="3915043627" seo="true" mt="1448657805000"/>
   </folder>
   <folder name="images">
-    <file name="u153-4.png" crc="3836108645" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u154-4.png" crc="187901261" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u126-4.png" crc="3805303962" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u164-4.png" crc="494191315" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u1916-4.png" crc="114565896" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u204-4.png" crc="3992535745" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="u233-3.png" crc="416954190" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u153-4.png" crc="3865272611" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u154-4.png" crc="3810277261" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u126-4.png" crc="21849539" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u164-4.png" crc="3965932595" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u1916-4.png" crc="20741837" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u204-4.png" crc="241998487" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="u233-3.png" crc="4199071591" ref="index:static-maps:résumé:on-line-maps"/>
     <file name="screen shot 2015-07-17 at 35235 am.jpg" crc="3840198037" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="static-maps:résumé:on-line-maps"/>
-    <file name="u1589.png" crc="3787528963" ref="static-maps"/>
-    <file name="u1589-r.png" crc="86056458" ref="static-maps"/>
-    <file name="u1589-m.png" crc="86056458" ref="static-maps"/>
-    <file name="u1589-a.png" crc="361513" ref="static-maps"/>
-    <file name="jll-lu thumb-u1785-fr.png" crc="436284217" ref="static-maps"/>
-    <file name="favelas thumb-u1786-fr.png" crc="4113449223" ref="static-maps"/>
-    <file name="vgi thumb-u1787-fr.png" crc="118302228" ref="static-maps"/>
-    <file name="spatial analysis imagery thumb-u2127-fr.png" crc="125433397" ref="static-maps"/>
-    <file name="relative data thumb-u2129-fr.png" crc="275657561" ref="static-maps"/>
-    <file name="jll-lu-u1783-fr.png" crc="239787844" ref="static-maps"/>
-    <file name="favelas-u1781-fr.png" crc="213331847" ref="static-maps"/>
-    <file name="vgi-u1782-fr.png" crc="3937547471" ref="static-maps"/>
-    <file name="spatial analysis imagery-u2128-fr.png" crc="3779205588" ref="static-maps"/>
-    <file name="relative data-u2130-fr.png" crc="4191653509" ref="static-maps"/>
-    <file name="u1588-6.png" crc="199652159" ref="static-maps"/>
-    <file name="u1791-5.png" crc="292029987" ref="static-maps"/>
-    <file name="u1792-4.png" crc="58779772" ref="static-maps"/>
-    <file name="u1593.png" crc="379333461" ref="static-maps"/>
-    <file name="u1593-r.png" crc="199170606" ref="static-maps"/>
-    <file name="u1593-m.png" crc="199170606" ref="static-maps"/>
-    <file name="u1593-a.png" crc="492863586" ref="static-maps"/>
-    <file name="a333-panel thumb-u1801-fr.png" crc="420015621" ref="static-maps"/>
-    <file name="sketchup thumb-u1802-fr.png" crc="278004523" ref="static-maps"/>
-    <file name="lasalle thumb-u1803-fr.png" crc="3982794667" ref="static-maps"/>
-    <file name="a333-panel-u1799-fr.png" crc="4219325792" ref="static-maps"/>
-    <file name="sketchup-u1797-fr.png" crc="458716666" ref="static-maps"/>
-    <file name="lasalle-u1798-fr.png" crc="470501744" ref="static-maps"/>
-    <file name="u1592-4.png" crc="3783166967" ref="static-maps"/>
-    <file name="u2472.png" crc="4065488675" ref="static-maps"/>
-    <file name="u2472-r.png" crc="4135791526" ref="static-maps"/>
-    <file name="u2472-m.png" crc="4135791526" ref="static-maps"/>
-    <file name="u2472-a.png" crc="3855983354" ref="static-maps"/>
-    <file name="poster thumb-u2477-fr.png" crc="4180385609" ref="static-maps"/>
-    <file name="poster-u2475-fr.png" crc="4254345389" ref="static-maps"/>
-    <file name="u2483-6.png" crc="4003826034" ref="static-maps"/>
-    <file name="u333.png" crc="479277521" ref="résumé"/>
-    <file name="u333-r.png" crc="304226818" ref="résumé"/>
-    <file name="u333-m.png" crc="304226818" ref="résumé"/>
-    <file name="u333-a.png" crc="3835465487" ref="résumé"/>
-    <file name="u335-6.png" crc="4030543328" ref="résumé"/>
-    <file name="u325.png" crc="3866108635" ref="résumé"/>
-    <file name="u325-r.png" crc="3797493698" ref="résumé"/>
-    <file name="u325-m.png" crc="3797493698" ref="résumé"/>
-    <file name="u325-a.png" crc="3785184880" ref="résumé"/>
-    <file name="u327-13.png" crc="4095405812" ref="résumé"/>
-    <file name="u329.png" crc="160153245" ref="résumé"/>
-    <file name="u329-r.png" crc="258977104" ref="résumé"/>
-    <file name="u329-m.png" crc="258977104" ref="résumé"/>
-    <file name="u329-a.png" crc="3933734719" ref="résumé"/>
-    <file name="u322.png" crc="132849042" ref="résumé"/>
-    <file name="u322-r.png" crc="159896661" ref="résumé"/>
-    <file name="u322-m.png" crc="159896661" ref="résumé"/>
-    <file name="u322-a.png" crc="3870320856" ref="résumé"/>
-    <file name="u1904.png" crc="65175768" ref="on-line-maps"/>
-    <file name="u1904-r.png" crc="211252726" ref="on-line-maps"/>
-    <file name="u1904-m.png" crc="211252726" ref="on-line-maps"/>
-    <file name="u1904-a.png" crc="21852728" ref="on-line-maps"/>
-    <file name="u234-30.png" crc="4234571754" ref="index"/>
-    <file name="u2521-4.png" crc="11150947" ref="static-maps"/>
-    <file name="u1807-4.png" crc="241643882" ref="static-maps"/>
-    <file name="u1808-12.png" crc="187754623" ref="static-maps"/>
-    <file name="u2540-4.png" crc="478628702" ref="on-line-maps"/>
-    <file name="u1919.png" crc="4166268830" ref="on-line-maps"/>
-    <file name="u1919-r.png" crc="441146490" ref="on-line-maps"/>
-    <file name="u1919-m.png" crc="441146490" ref="on-line-maps"/>
-    <file name="u1919-a.png" crc="3931099507" ref="on-line-maps"/>
-    <file name="u2541-6.png" crc="4098493371" ref="on-line-maps"/>
-    <file name="u2520-8.png" crc="158073054" ref="static-maps"/>
-    <file name="modelbuildericon.png" crc="3831076290" ref="static-maps"/>
-    <file name="u331-26.png" crc="4019066573" ref="résumé"/>
-    <file name="u338-82.png" crc="527639848" ref="résumé"/>
+    <file name="u1589.png" crc="4018629093" ref="static-maps"/>
+    <file name="u1589-r.png" crc="3903727942" ref="static-maps"/>
+    <file name="u1589-m.png" crc="3903727942" ref="static-maps"/>
+    <file name="u1589-a.png" crc="28280084" ref="static-maps"/>
+    <file name="relative data-u2130-fr.png" crc="56909470" ref="static-maps"/>
+    <file name="u1588-6.png" crc="255843114" ref="static-maps"/>
+    <file name="u1791-5.png" crc="4205598531" ref="static-maps"/>
+    <file name="u1792-4.png" crc="3815581297" ref="static-maps"/>
+    <file name="u1593.png" crc="3931199258" ref="static-maps"/>
+    <file name="u1593-r.png" crc="152354868" ref="static-maps"/>
+    <file name="u1593-m.png" crc="152354868" ref="static-maps"/>
+    <file name="u1593-a.png" crc="4259567203" ref="static-maps"/>
+    <file name="u1592-4.png" crc="4191759260" ref="static-maps"/>
+    <file name="u2472.png" crc="253358611" ref="static-maps"/>
+    <file name="u2472-r.png" crc="372886177" ref="static-maps"/>
+    <file name="u2472-m.png" crc="372886177" ref="static-maps"/>
+    <file name="u2472-a.png" crc="4160288865" ref="static-maps"/>
+    <file name="u2483-6.png" crc="509944194" ref="static-maps"/>
+    <file name="u333.png" crc="499962231" ref="résumé"/>
+    <file name="u333-r.png" crc="3777627525" ref="résumé"/>
+    <file name="u333-m.png" crc="3777627525" ref="résumé"/>
+    <file name="u333-a.png" crc="3950185428" ref="résumé"/>
+    <file name="u335-6.png" crc="516826468" ref="résumé"/>
+    <file name="u325.png" crc="104865926" ref="résumé"/>
+    <file name="u325-r.png" crc="4015810190" ref="résumé"/>
+    <file name="u325-m.png" crc="4015810190" ref="résumé"/>
+    <file name="u325-a.png" crc="184670887" ref="résumé"/>
+    <file name="u327-13.png" crc="3759822317" ref="résumé"/>
+    <file name="u329.png" crc="3782143404" ref="résumé"/>
+    <file name="u329-r.png" crc="98664068" ref="résumé"/>
+    <file name="u329-m.png" crc="98664068" ref="résumé"/>
+    <file name="u329-a.png" crc="345194248" ref="résumé"/>
+    <file name="u322.png" crc="3894082644" ref="résumé"/>
+    <file name="u322-r.png" crc="407557786" ref="résumé"/>
+    <file name="u322-m.png" crc="407557786" ref="résumé"/>
+    <file name="u322-a.png" crc="472211573" ref="résumé"/>
+    <file name="u1904.png" crc="225526280" ref="on-line-maps"/>
+    <file name="u1904-r.png" crc="462258061" ref="on-line-maps"/>
+    <file name="u1904-m.png" crc="462258061" ref="on-line-maps"/>
+    <file name="u1904-a.png" crc="468941329" ref="on-line-maps"/>
+    <file name="u234-30.png" crc="4180057019" ref="index"/>
+    <file name="u2521-4.png" crc="4027462871" ref="static-maps"/>
+    <file name="u1807-4.png" crc="3963808882" ref="static-maps"/>
+    <file name="u1808-12.png" crc="3779115194" ref="static-maps"/>
+    <file name="u2540-4.png" crc="4095323901" ref="on-line-maps"/>
+    <file name="u1919.png" crc="3900458539" ref="on-line-maps"/>
+    <file name="u1919-r.png" crc="5542270" ref="on-line-maps"/>
+    <file name="u1919-m.png" crc="5542270" ref="on-line-maps"/>
+    <file name="u1919-a.png" crc="158998372" ref="on-line-maps"/>
+    <file name="u2541-6.png" crc="19549616" ref="on-line-maps"/>
+    <file name="u2520-8.png" crc="382231201" ref="static-maps"/>
+    <file name="modelbuildericon.png" crc="3831076290" ref="static-maps" seo="true"/>
+    <file name="u331-26.png" crc="529264165" ref="résumé"/>
+    <file name="u338-82.png" crc="495438268" ref="résumé"/>
+    <file name="jll-lu thumb.png" crc="3804335958" ref="static-maps"/>
+    <file name="favelas thumb.png" crc="3871284254" ref="static-maps"/>
+    <file name="vgi thumb.png" crc="3968313891" ref="static-maps"/>
+    <file name="spatial analysis imagery thumb.png" crc="3892151716" ref="static-maps"/>
+    <file name="relative data thumb.png" crc="184728791" ref="static-maps"/>
+    <file name="jll-lu.png" crc="25128094" ref="static-maps"/>
+    <file name="favelas.png" crc="3919431012" ref="static-maps"/>
+    <file name="vgi.png" crc="3899660608" ref="static-maps"/>
+    <file name="spatial analysis imagery.png" crc="451134979" ref="static-maps"/>
+    <file name="a333-panel thumb.png" crc="94637023" ref="static-maps"/>
+    <file name="sketchup thumb.png" crc="3989003858" ref="static-maps"/>
+    <file name="lasalle thumb.png" crc="4180094931" ref="static-maps"/>
+    <file name="a333-panel.png" crc="4210203092" ref="static-maps"/>
+    <file name="sketchup.png" crc="4118471387" ref="static-maps"/>
+    <file name="lasalle.png" crc="4139394349" ref="static-maps"/>
+    <file name="poster thumb.png" crc="285404897" ref="static-maps"/>
+    <file name="poster.png" crc="189938105" ref="static-maps"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="4184021843" ref="index"/>
-    <file name="master_a-master.css" crc="4149966504" ref="on-line-maps:index:static-maps:résumé"/>
-    <file name="on-line-maps.css" crc="166483216" ref="on-line-maps"/>
-    <file name="static-maps.css" crc="4125459608" ref="static-maps"/>
-    <file name="r_sum_.css" crc="389937906" ref="résumé"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="144413960" ref="index"/>
+    <file name="master_a-master.css" crc="248212791" ref="on-line-maps:index:static-maps:résumé"/>
+    <file name="on-line-maps.css" crc="3773191862" ref="on-line-maps"/>
+    <file name="static-maps.css" crc="243619999" ref="static-maps"/>
+    <file name="r_sum_.css" crc="240898934" ref="résumé"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="museutils.js" crc="212726984" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="jquery.musemenu.js" crc="440295907" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="museutils.js" crc="183364071" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:static-maps:résumé:on-line-maps"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:static-maps:résumé:on-line-maps"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:static-maps:résumé:on-line-maps"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="static-maps"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="static-maps"/>
     <file name="pie.js" crc="3827607177" ref="static-maps"/>
-    <file name="webpro.js" crc="114405901" ref="static-maps:résumé:on-line-maps"/>
-    <file name="musewpslideshow.js" crc="3797706250" ref="static-maps"/>
-    <file name="jquery.museoverlay.js" crc="254250306" ref="static-maps"/>
-    <file name="touchswipe.js" crc="12843993" ref="static-maps"/>
-    <file name="musewpdisclosure.js" crc="4130026270" ref="static-maps:résumé:on-line-maps"/>
+    <file name="webpro.js" crc="3803554875" ref="static-maps:résumé:on-line-maps"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="static-maps"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="static-maps"/>
+    <file name="touchswipe.js" crc="4038331989" ref="static-maps"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="static-maps:résumé:on-line-maps"/>
   </folder>
-  <file name="index.html" crc="3783130864" mt="1439533185608" redirect="true"/>
-  <file name="static-maps.html" crc="215389578" mt="1439533144140" redirect="true"/>
-  <file name="résumé.html" crc="139169967" mt="1439533350460" redirect="true"/>
-  <file name="on-line-maps.html" crc="4214639503" mt="1439928549327" redirect="true"/>
+  <file name="index.html" crc="3850423673" mt="1448675633546" redirect="true" seo="true"/>
+  <file name="static-maps.html" crc="443487128" mt="1448675633635" redirect="true" seo="true"/>
+  <file name="résumé.html" crc="3917232794" mt="1448675633546" redirect="true" seo="true"/>
+  <file name="on-line-maps.html" crc="4091815053" mt="1448675679954" redirect="true" seo="true"/>
 </manifest>
