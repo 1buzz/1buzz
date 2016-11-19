@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1448728512801" iceMarkupVersion="2" domain="1buzz.me">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1479534498176" iceMarkupVersion="2" domain="1buzz.me">
   <folder name="assets">
     <file name="resume_jbuzzetti.pdf" crc="94646899" mt="1439503962000"/>
     <file name="modelbuilder.pdf" crc="4004700815" mt="1439508496000"/>
@@ -68,7 +68,7 @@
     <file name="u2520-8.png" crc="382231201" ref="static-maps"/>
     <file name="modelbuildericon.png" crc="3831076290" ref="static-maps" seo="true"/>
     <file name="u331-26.png" crc="529264165" ref="résumé"/>
-    <file name="u338-82.png" crc="495438268" ref="résumé"/>
+    <file name="u338-82.png" crc="4179951272" ref="résumé"/>
     <file name="jll-lu thumb.png" crc="3804335958" ref="static-maps"/>
     <file name="favelas thumb.png" crc="3871284254" ref="static-maps"/>
     <file name="vgi thumb.png" crc="3968313891" ref="static-maps"/>
@@ -94,7 +94,7 @@
     <file name="master_a-master.css" crc="248212791" ref="on-line-maps:index:static-maps:résumé"/>
     <file name="on-line-maps.css" crc="3773191862" ref="on-line-maps"/>
     <file name="static-maps.css" crc="243619999" ref="static-maps"/>
-    <file name="r_sum_.css" crc="240898934" ref="résumé"/>
+    <file name="r_sum_.css" crc="440232368" ref="résumé"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:static-maps:résumé:on-line-maps"/>
@@ -112,6 +112,6 @@
   </folder>
   <file name="index.html" crc="60380089" mt="1448728488728" redirect="true" seo="true"/>
   <file name="static-maps.html" crc="443487128" mt="1448675633635" redirect="true" seo="true"/>
-  <file name="résumé.html" crc="3917232794" mt="1448675633546" redirect="true" seo="true"/>
+  <file name="résumé.html" crc="4119254207" mt="1479534356885" redirect="true" seo="true"/>
   <file name="on-line-maps.html" crc="4091815053" mt="1448675679954" redirect="true" seo="true"/>
 </manifest>
