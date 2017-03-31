@@ -1,0 +1,1 @@
+Cannot GET /script.js

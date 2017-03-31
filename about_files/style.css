@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    background: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+}
+
+header {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.aboutMe {
+    color: #101010;
+    width: 800px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+    font-size: 80%;
+    line-height: 30px
+    
+}
+
+.pageTitle {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    line-height: 5px;
+}
+
+.pageSubTitle {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 80%;
+    text-align: center;
+    line-height: 10px
+}
+
+.lastUpdate {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 70%;
+    color: gray;
+    text-align: right;
+    line-height: 20px
+}
+
+nav {
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul {
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 1px;
+}
+
+nav li {
+    display: inline-block;
+    padding-top: 5px;
+    position: relative;
+    margin: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+nav a {
+    color: lightgray;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+nav a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    width: 0%;
+    transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+    width: 70%;
+}
+
+.mapTitle {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    padding-top: 10px;
+    line-height: 0%;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+
+.mapSource {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30%;
+    text-align: right;
+    color: gray;
+    padding-top: 7px;
+    line-height: 10%;
+}
+
+#montrealEvol {
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#muralsMap {
+    height: 600px;
+    width: 800px;
+    /*    padding-top: 70px;*/
+    /*    margin-top: 10px;*/
+    margin-left: auto;
+    margin-right: auto;
+    1
+}
+
+.leaflet-popup-content {
+    width: auto !important;
+}
