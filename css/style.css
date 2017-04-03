@@ -27,7 +27,7 @@ header::after {
 
 .aboutMe {
     color: #101010;
-    width: 600px;
+    width: 800px;
     padding: 0px;
     margin-right: auto;
     margin-left: auto;
@@ -54,7 +54,7 @@ header::after {
 }
 
 .lastUpdate {
-    width: 600px;
+    width: 800px;
     margin-right: auto;
     margin-left: auto;
     font-size: 70%;
