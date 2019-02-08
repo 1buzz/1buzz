@@ -60,7 +60,7 @@ header::after {
     font-size: 70%;
     color: gray;
     text-align: right;
-    line-height: 20px
+    line-height: 40px
 }
 
 nav {
@@ -128,11 +128,11 @@ nav a:hover::before {
     width: 1024px;
     margin-right: auto;
     margin-left: auto;
-    font-size: 40%;
-    text-align: right;
+    font-size: 50%;
+    text-align: left;
     color: gray;
-    padding-top: 6px;
-    line-height: 10%;
+    padding-top: 1px;
+    line-height: 1%;
 }
 
 .mapTitleStatic {
@@ -150,11 +150,11 @@ nav a:hover::before {
     width: 800px;
     margin-right: auto;
     margin-left: auto;
-    font-size: 40%;
-    text-align: right;
+    font-size: 50%;
+    text-align: left;
     color: gray;
-    padding-top: 6px;
-    line-height: 10%;
+    padding-top: 1px;
+    line-height: 1%;
 }
 
 #montrealEvol {
@@ -203,5 +203,69 @@ img {
     width: 800px;
 }
 
+#cv_section{
+    width: 800px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 100%;
+    line-height: 30px;
+    background-color:rgb(200,200,200);
+    font-weight: 900;
+}
+
+#cv_subsection{
+    width: 800px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    font-size: 90%;
+    font-weight: 700;
+    line-height: 10px;
+}
+
+#cv_subsubsection{
+    width: 800px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    font-size: 80%;
+    font-weight: 400;
+    line-height: 10px;
+}
+
+#cv_bullets{
+    width: 700px;
+    padding: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    font-size: 80%;
+    line-height: 30px;
+    
+}
+    
+#thesis{
+    text-decoration: inherit;
+}
+
+
+#english{
+    text-decoration-color: "red";
+    text-emphasis-position: above;
+}
+
+.lang {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 80%;
+    color: gray;
+    text-align: right;
+    line-height: 20px;
+    float:right;
 
 /* carusssel*/
