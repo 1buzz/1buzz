@@ -5,8 +5,16 @@ body {
     font-weight: 400;
 }
 
-.container {
+.hr2 {
     width: 800px;
+    border: 0;
+    height: 1.5px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(3, 3, 3), rgba(0, 0, 0, 0));
+    margin-bottom: 60px;
+  }
+
+.container {
+    width: 1024px;
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
@@ -16,7 +24,7 @@ header {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    background: black;
+    background: rgb(72, 72, 72);
 }
 
 header::after {
@@ -27,33 +35,33 @@ header::after {
 
 .aboutMe {
     color: #101010;
-    width: 800px;
+    width: 1024px;
     padding: 0px;
     margin-right: auto;
     margin-left: auto;
     text-align: justify;
-    font-size: 80%;
+    font-size: 70%;
     line-height: 30px
 }
 
 .pageTitle {
-    width: 800px;
+    width: 1024px;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
     line-height: 5px;
 }
 
-.pageSubTitle {
-    width: 800px;
+/* .pageSubTitle {
+    width: 1024px;
     margin-right: auto;
     margin-left: auto;
-    font-size: 80%;
+    font-size: 90%;
     text-align: center;
     line-height: 10px
-}
+} */
 
-.lastUpdate {
+/* .lastUpdate {
     width: 800px;
     margin-right: auto;
     margin-left: auto;
@@ -61,7 +69,7 @@ header::after {
     color: gray;
     text-align: right;
     line-height: 40px
-}
+} */
 
 nav {
     float: center;
@@ -71,7 +79,7 @@ nav {
 }
 
 nav ul {
-    width: 740px;
+    width: 920px;
     margin-left: auto;
     margin-right: auto;
     margin: 1px;
@@ -87,11 +95,11 @@ nav li {
 }
 
 nav a {
-    color: lightgray;
+    color: rgb(220, 220, 220);
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 16px;
-    font-weight: 200;
+    font-size: 20px;
+    font-weight: 300;
 }
 
 nav a:hover {
@@ -110,7 +118,7 @@ nav a::before {
 }
 
 nav a:hover::before {
-    width: 70%;
+    width: 80%;
 }
 
 .mapTitle {
@@ -136,7 +144,7 @@ nav a:hover::before {
 }
 
 .mapTitleStatic {
-    width: 800px;
+    width: 1024px;
     margin-right: auto;
     margin-left: auto;
     text-align: left;
@@ -147,7 +155,7 @@ nav a:hover::before {
 }
 
 .mapSourceStatic {
-    width: 800px;
+    width: 1024px;
     margin-right: auto;
     margin-left: auto;
     font-size: 50%;
@@ -155,36 +163,6 @@ nav a:hover::before {
     color: gray;
     padding-top: 1px;
     line-height: 1%;
-}
-
-#montrealEvol {
-    /*    height: 768px;*/
-    width: 1024px;
-    margin-left: auto;
-    margin-right: auto
-}
-
-#montrealLU {
-    /*    height: 768px;*/
-    width: 1024px;
-    margin-left: auto;
-    margin-right: auto
-}
-
-#muralsMap {
-    height: 768px;
-    width: 1024px;
-    /*    padding-top: 70px;*/
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#argPopDens {
-    width: 1024px;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto
 }
 
 .leaflet-popup-content {
@@ -200,7 +178,7 @@ img {
 }
 
 .staticMap {
-    width: 800px;
+    width: 1024px;
 }
 
 #cv_section{
@@ -259,7 +237,7 @@ img {
 }
 
 .lang {
-    width: 800px;
+    width: 1024px;
     margin-right: auto;
     margin-left: auto;
     font-size: 80%;
@@ -268,4 +246,5 @@ img {
     line-height: 20px;
     float:right;
 
-/* carusssel*/
+
+
