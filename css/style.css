@@ -246,5 +246,10 @@ img {
     line-height: 20px;
     float:right;
 
+.aboutMe{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 
 
